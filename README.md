@@ -51,12 +51,16 @@ Weighted Average: Precision: 0.66, Recall: 0.68, F1-Score: 0.67
 ### Model Performance
 Logistic Regression:
 Class	Precision	Recall	F1-Score	Support
+
 1	0.77	0.86	0.81	125
+
 2	0.50	0.34	0.40	50
 
 Random Forest:
 Class	Precision	Recall	F1-Score	Support
+
 1	0.76	0.81	0.78	125
+
 2	0.43	0.36	0.39	50
 
 ### Conclusion
